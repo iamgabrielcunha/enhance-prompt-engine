@@ -9,6 +9,8 @@
 
 ---
 
+note that I'm new to github repo and welcome feedback
+
 ## The problem
 
 You know what you want Claude to do, but you're not getting the output you need. Most people send vague, underpowered prompts and accept mediocre results. Even experienced users default to "help me with X" instead of engineering their prompts properly.
