@@ -31,7 +31,7 @@ All in one command. All in seconds. All for free.
 
 ![Demo](assets/demo.gif)
 
-*Coming soon — record your screen and add a GIF here.*
+*Coming soon*
 
 ---
 
