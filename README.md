@@ -85,7 +85,7 @@ Each example shows the raw prompt, the enhanced output, and which techniques fir
 
 ## Why this exists
 
-I built `/enhance` because I was tired of getting mediocre outputs from a model I knew could do much better. I'm a law student, a Brazilian Jiu-Jitsu coach, and a small business owner — I use Claude for everything from contract analysis to sales strategy to theology study. Each domain demands different prompting techniques, and I was spending more time formulating prompts than actually working.
+I built `/enhance` because I was tired of getting mediocre outputs from a model I knew could do much better. I'm a law student and a small business owner — I use Claude for everything from contract analysis to sales strategy to theology study. Each domain demands different prompting techniques, and I was spending more time formulating prompts than actually working.
 
 I read every page of the [DAIR.AI Prompt Engineering Guide](https://www.promptingguide.ai/) and the [Google Cloud Prompt Engineering Guide](https://cloud.google.com/discover/what-is-prompt-engineering). I distilled both into a single Claude Code command. This is the result.
 
